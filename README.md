@@ -4,11 +4,13 @@ Componentes:
   * Servo Motor
   * Jumpers
   
-### Montagem
-<img src="servoMotor_nodemcu_bb.png" width="100%" height="100%">
+### Circuito
+<img src="servoMotor_nodemcu_bb.png" width="60%" height="60%">
 
-Tela no Blynk:
-<img src="servo_blynk.jpeg" width="100%" height="100%">
+### Blynk
+<img src="servo_blynk.jpeg" width="50%" height="50%">
 
+* Configuração:
+  - Slider: Pin Digital V0, variando de 0 a 180.
 
 
